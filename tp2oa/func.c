@@ -1,6 +1,9 @@
 # include "func.h"
 
-bool adiciona();
+bool adiciona(){
+	printf("Teste\n");
+	return true;
+}
 
 int procura();
 
